@@ -1,2 +1,2 @@
 # LinearRegressor_fromScratch
-Linear Regressor from scratch
+### Python exercise of building a linear regressor from scratch
