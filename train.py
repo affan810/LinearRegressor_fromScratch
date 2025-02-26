@@ -4,7 +4,7 @@ from sklearn import datasets
 
 
 from LinearRegression import LinearRegression
-import plot
+from utils import plot
 from AccuracyMetric import AccuracyMetric
 
 '''Creating a random dataset, adding noise to check how much stress the model can take'''
